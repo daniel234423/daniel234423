@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-👨‍💻Programador Full-Stack especializado en Back-End <br>📖Estoy en un continuo aprendizaje para llevar mis codigos al mejor rendimiento <br>
+👨‍💻Programador full-stack certificado en la academia de programación coding dojo <br>💻Enfocado en back-end con python como lenguaje mayormente utilizado<br>
 
 
 ## 🔎 Views:
